@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="11646" started-at="2020-11-25T07:06:26Z" finished-at="2020-11-25T07:06:38Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="11646" started-at="2020-11-25T07:06:26Z" finished-at="2020-11-25T07:06:38Z">
+      <class name="com.automation.testCases.TC_LoginTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.automation.testCases.TC_LoginTest@724af044]" name="setup" is-config="true" duration-ms="4431" started-at="2020-11-25T12:36:26Z" finished-at="2020-11-25T12:36:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="LoginTest()[pri:0, instance:com.automation.testCases.TC_LoginTest@724af044]" name="LoginTest" duration-ms="7176" started-at="2020-11-25T12:36:31Z" finished-at="2020-11-25T12:36:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+      </class> <!-- com.automation.testCases.TC_LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
